@@ -15,4 +15,5 @@ Stack
 <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
 Linux.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssunnkr&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zircon10)](https://solved.ac/zircon10/)
