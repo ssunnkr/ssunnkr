@@ -4,7 +4,7 @@
 </p>
 
 <!-- 인사말 & 소개 -->
-<h1 align="center">Hi there, I'm <span style="color:#6C63FF;">Michael&nbsp;☀️</span></h1>
+<h1 align="center">Hi there, I'm <span style="color:#6C63FF;">Sun&nbsp;☀️</span></h1>
 <p align="center">
   끊임없이 게을러지고싶은 욕심많은 개발자<br/>
   AI · 임베디드 · 풀스택 · 시뮬레이션에 관심이 많아요 🚀
