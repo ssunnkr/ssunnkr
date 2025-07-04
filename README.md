@@ -14,7 +14,7 @@
 
 ## 🪄 About Me
 - 🔭 **현재** : 플러터기반 풀스택 개발, TMS·BMS 시뮬레이터, AI 엔지니어링 등 다양한 프로젝트 진행 중  
-- 🌱 **학습** : 강화학습·GCNN·Transformer — Model Optimization  
+- 🌱 **학습** : 강화학습·시뮬레이터
 - ✍️ **블로그** : [velog.io/@ssunnkr](https://velog.io/@ssunnkr)  
 - 🗣 **언어** : 한국어 / English / 中國語 / 日語
 - 🎯 **Goal** : 손가락 하나만 까닥거리면 알아서 다되는 가성비 좋은 효율적인 플랫폼 개발!
